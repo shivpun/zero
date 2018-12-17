@@ -24,7 +24,15 @@
 	
 	<properties>
 		<java.version>1.8</java.version>
+		<zero.application.version>0.0.1-SNAPSHOT</zero.application.version>
 	</properties>
+	
+	<dependencies>
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-autoconfigure</artifactId>
+		</dependency>
+	</dependencies>
 	
 	<repositories>
 		<repository>
