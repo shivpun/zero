@@ -17,14 +17,6 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	
-	<artifactId>zero-integrate</artifactId>
-	<name>zero-integrate</name>
-	<url>https://kite.zerodha.com</url>
-	
-	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	</properties>
   
 	<dependencies>
 		<dependency>
