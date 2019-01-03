@@ -16,3 +16,12 @@
 /.project
 /zero-web/.settings/
 /zero-web/.project
+/zero-core/.factorypath
+/zero-integrate/.factorypath
+/zero-puppeteer/.classpath
+/zero-puppeteer/.project
+/zero-puppeteer/.factorypath
+/zero-test/.factorypath
+/zero-web/.factorypath
+/zero-puppeteer/.settings/
+/zero-puppeteer/target/
