@@ -1,7 +1,6 @@
 package org.zerodha.util;
 
 import org.zerodha.domain.Brokerage;
-import org.zerodha.domain.Margin;
 
 public class ZerodhaMarginUtil {
 	
