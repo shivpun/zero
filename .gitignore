@@ -30,3 +30,8 @@
 /zero-batch/.project
 /zero-batch/target/
 /zero-batch/.settings/
+/zero-common/.classpath
+/zero-common/.factorypath
+/zero-common/.project
+/zero-common/target/
+/zero-common/.settings/
